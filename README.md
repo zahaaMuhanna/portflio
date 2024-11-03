@@ -9,7 +9,7 @@ The Portfolio project simulates a personal portfolio website, designed to help p
 - JavaScript Interactivity: Adds user interaction elements to enhance the user experience.
 - Modern UI Design: A clean and professional layout for a portfolio-style website.
 
-# Technologies Used
+## Technologies Used
 - HTML5 - For structuring the content.
 - CSS3 - For styling and layout customization.
 - Bootstrap - For responsive design and layout assistance.
